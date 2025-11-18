@@ -24,9 +24,6 @@ jupyter notebook
 
 Python 3.9+, NumPy, Pandas, Matplotlib, Scikit-learn, and optionally TensorFlow or PyTorch.
 
-## Licence
-
-Add your chosen licence here.
 
 ## Contributions
 
